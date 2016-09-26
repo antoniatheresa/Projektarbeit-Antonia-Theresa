@@ -6,5 +6,8 @@ Diese Variable haben wir an den "create turtles"- Befehl angeschlossen, damit di
 "Spaceland" eingefügt wird.
 Um die "Agenten" im "Spaceland" zu verteilen, haben wir an den "setup"-Block einen "scatter"-Befehl gesetzt.
 Damit sich die Agenten willkürlich im "Spaceland" bewegen, haben wir vor jede Variable im "forever"-Block einen "random"-Block hinzugefügt.
+Als nächstes haben wir einen "Collision"-Block eingesetzt,um die "Agenten" bei einem Zusammenstoß sprechen zu lassen. 
+Hierfür haben wir in die freien Felder dieses Blockes die "say"-Funktion aktiviert. Um diesen Text zu bestimmen, haben wir die
+"abc"-Variable verwendet und den Text zu "Hallo" bzw. "Oh Hallo" geändert.
 
 
