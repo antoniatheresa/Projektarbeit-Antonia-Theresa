@@ -1,0 +1,9 @@
+#StarLogoTNG Part 3
+Damit man eine Veränderung der "Agentenfarbe" im "Spaceland" erkennen kann, haben wir zunächst über die "Edit Breeds"-Funktion die 
+Darstellung des "Agenten" im "Spaceland" in einen farblosen Eisbären verwandelt.
+Für den ersten Schritt haben wir den "Create Turtles"- Block durch einen "Create do"- Block ersetzt, um die "Agenten" in drei 
+verschiedene Farben zu unterteilen.
+Nachdem wir dies getan hatten, konnten wir den "set color"- Befehl benutzen und eine Farbe auswählen, wir entschieden uns für "purple".
+Im "Spaceland" waren nun alle "Agenten" in der Farbe "purple". Da wir aber verschiedenfarbige "Agenten" erstellen wollten, mussten wir nun 
+einen "if-test-then"-Block einsetzen. Unser Plan war es, dass jeweils ein Drittel der Agenten "purple","blue" und "cyan" waren. 
+Hierfür mussten wir in die "test"-Spalte einen 
