@@ -61,6 +61,7 @@ Anschließend haben wir im "Spaceland" den Befehl "Agent View" ausgeführt und s
 
 ##Lernaktivität 2<a name="2"></a>
 
+https://github.com/antoniatheresa/Projektarbeit-Antonia-Theresa/blob/master/StarLogoTNG%202%20Antonia%26Theresa.sltng
 
 Als Erstes haben wir einen "Slider"-Block verwendet, um die Zahl der "Agenten" mit einem Regler im "Spaceland" beliebig regulieren
 zu können. Dazu haben wir an diesen "Slider"-Block eine globale Variable gesetzt ("shared number"),
@@ -74,6 +75,8 @@ Hierfür haben wir in die freien Felder dieses Blockes die "say"-Funktion aktivi
 "abc"-Variable verwendet und den Text zu "Hallo" bzw. "Oh Hallo" geändert.
 
 ##Lernaktivität 3<a name="3"></a>
+
+https://github.com/antoniatheresa/Projektarbeit-Antonia-Theresa/blob/master/StarLogoTNG%203%20Antonia%26Theresa.sltng           
 
 Damit man eine Veränderung der "Agentenfarbe" im "Spaceland" erkennen kann, haben wir zunächst über die "Edit Breeds"-Funktion die 
 Darstellung des "Agenten" im "Spaceland" in einen farblosen Eisbären verwandelt.
@@ -112,6 +115,8 @@ Damit die Agenten sterben, wenn die "test"-Spalte zutrifft, fügten wir in die "
 Auch bei diesem Schritt kopierten wir den "if-test-then"-Block und fügten ihn in der zweiten Spalte des "collision"-Blocks ein.
 
 ##Lernaktivität 4<a name="4"></a>
+
+https://github.com/antoniatheresa/Projektarbeit-Antonia-Theresa/blob/master/SarLogoTNG%204%20Antonia%26Theresa.sltng
 
 In dieser Lerneinheit haben wir nicht weiter an den "Turtles" gearbeitet, sondern ein neues Projekt hinzugefügt. Hierfür haben wir einen
 "setup"-Block erstellt, den wir für die bessere Übersicht in "Rabbits, Objects" umbenannt haben. Zunächst mussten wir den 
