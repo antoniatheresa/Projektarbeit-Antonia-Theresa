@@ -164,6 +164,8 @@ Haben wir ihn in "Points Rabbit" umbenannt. Damit diese variable definiert wird 
 
 ##Lernaktivität 9<a name="9"></a>
 
+https://github.com/antoniatheresa/Epidemie-Projekt/blob/master/Antonia%26Theresas%20Epidemie%20lol.sltng
+
 ###Homogene Epidemie<a name="1"></a> 
 
 ![Boolsche Varablen](https://github.com/antoniatheresa/Epidemie-Projekt/blob/master/Boolsche.PNG)
