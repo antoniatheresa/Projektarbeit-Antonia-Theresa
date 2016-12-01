@@ -41,3 +41,39 @@ Auch die gut sortierten Variablen und Ordner machen das Programmieren einfach.
 Durch die vielen Gestaltungsmöglichkeiten ist StarLogoTNG sehr vielfältig nutzbar, 
 wird aber nicht unübersichtlich, da das Programmierfeld am rechten oberen Rand nochmal in kleinerer Ausfühtung angezeigt wird, 
 um den Überblick zu wahren, wenn die Variablen und Blöcke zu komplex werden. 
+
+##Lernaktivität 1<a name="1"></a>
+
+Zuerst haben wir einen setup Block erstellt und durch den Befehl "clear everyone" alle "Agenten/turtles" aus dem "Spaceland" entfernt.
+Dann haben wir mit dem Befehl "create turtles" einen "Agenten" erstellt und die "Agentennummer" auf 1 gesetzt. 
+Wählt man nun im "Spaceland" den "setup" Block aus, erscheint genau ein "Agent" im "Spaceland". 
+Um alle "Agenten" im "Spaceland" mit einem Befehl steuern zu können, haben wir einen "forever-Block" eingefügt. 
+Mit den Befehlen zur Bewegung "forward" bewegt sich der "Agent" im "Spaceland" solange vorwärts, bis man den Befehl
+stoppt.
+Als nächstes haben wir die Schrittzahl auf "10 steps" gestellt und einen Befehl zur Rechtsdrehung um 90 Grad hinzugefügt (right degs). 
+Dadurch bewegt sich der "Agent" im "Spaceland" nun im Quadrat.
+Diese Bewegung kann man mit dem "forever"-Knopf im "Spaceland" starten und stoppen. Der Befehl gilt für alle "Agenten" im "Spaceland"
+und wird von oben nach unten im "forever"-Block abgespielt, bis der Befehl gestoppt wird.
+Als Nächstes haben wir die Perspektive geändert, indem wir auf den "Agenten" geklickt und so seine Position und Farbe eingestellt haben.
+Anschließend haben wir im "Spaceland" den Befehl "Agent View" ausgeführt und so unsere Perspektive geändert.
+
+##Lernaktivität 2<a name="2"></a>
+
+Als Erstes haben wir einen "Slider"-Block verwendet, um die Zahl der "Agenten" mit einem Regler im "Spaceland" beliebig regulieren
+zu können. Dazu haben wir an diesen "Slider"-Block eine globale Variable gesetzt ("shared number"),
+die wir zur besseren Übrsicht in "Number Turtles" umbenannt haben. 
+Diese Variable haben wir an den "create turtles"- Befehl angeschlossen, damit die gewünschte "Agenten"-Zahl über den "setup"-Block im 
+"Spaceland" eingefügt wird.
+Um die "Agenten" im "Spaceland" zu verteilen, haben wir an den "setup"-Block einen "scatter"-Befehl gesetzt.
+Damit sich die Agenten willkürlich im "Spaceland" bewegen, haben wir vor jede Variable im "forever"-Block einen "random"-Block hinzugefügt.
+Als nächstes haben wir einen "Collision"-Block eingesetzt,um die "Agenten" bei einem Zusammenstoß sprechen zu lassen. 
+Hierfür haben wir in die freien Felder dieses Blockes die "say"-Funktion aktiviert. Um diesen Text zu bestimmen, haben wir die
+"abc"-Variable verwendet und den Text zu "Hallo" bzw. "Oh Hallo" geändert.
+
+##Lernaktivität 3<a name="3"></a>
+
+
+##Lernaktivität 4<a name="4"></a>
+
+
+##Lernaktivität 5<a name="5"></a>
