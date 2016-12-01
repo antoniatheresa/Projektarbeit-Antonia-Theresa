@@ -44,6 +44,8 @@ um den Überblick zu wahren, wenn die Variablen und Blöcke zu komplex werden.
 
 ##Lernaktivität 1<a name="1"></a>
 
+https://github.com/antoniatheresa/Projektarbeit-Antonia-Theresa/blob/master/StarLogoTNG%201%20Antonia%26Theresa.sltng
+
 Zuerst haben wir einen setup Block erstellt und durch den Befehl "clear everyone" alle "Agenten/turtles" aus dem "Spaceland" entfernt.
 Dann haben wir mit dem Befehl "create turtles" einen "Agenten" erstellt und die "Agentennummer" auf 1 gesetzt. 
 Wählt man nun im "Spaceland" den "setup" Block aus, erscheint genau ein "Agent" im "Spaceland". 
@@ -58,6 +60,7 @@ Als Nächstes haben wir die Perspektive geändert, indem wir auf den "Agenten" g
 Anschließend haben wir im "Spaceland" den Befehl "Agent View" ausgeführt und so unsere Perspektive geändert.
 
 ##Lernaktivität 2<a name="2"></a>
+
 
 Als Erstes haben wir einen "Slider"-Block verwendet, um die Zahl der "Agenten" mit einem Regler im "Spaceland" beliebig regulieren
 zu können. Dazu haben wir an diesen "Slider"-Block eine globale Variable gesetzt ("shared number"),
