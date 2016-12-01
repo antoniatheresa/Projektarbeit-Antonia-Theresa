@@ -7,8 +7,13 @@
 [2. Lernaktivität 2](#2)  
 [3. Lernaktivität 3](#3)  
 [4. Lernaktivität 4](#4)  
-[5. Lernaktivität 5](#5) 
-
+[5. Lernaktivität 5](#5)     
+[6. Lernaktivität 6](#6)      
+[7. Lernaktivität 7](#7)     
+[8. Lernaktivität 8](#8)     
+[9. Lernaktivität 9](#9)       
+[10. Lernaktivität 10](#10)       
+ 
 ##StarLogoTNG<a name="Einführung"></a> 
 
 StarLogoTNG ist ein Simulationsprogramm für die Blockprogrammiersprache.     
@@ -146,3 +151,18 @@ Wir einen "line graph"-Block erstellt und die variable score in den "Runtime" be
 Haben wir ihn in "Points Rabbit" umbenannt. Damit diese variable definiert wird haben wir sie im im "setup"-Block mithilfe des "set score"-Blocks und der Variable "0" auf 0 gesetzt. Im "collisionsblock" haben wir in der "Object"-Spalte einen "if-test-then"-Block gesetzt. In die "test"-Spalte haben wir die variable "true"-gesetzt und in die "then"-Spalte den Befehl "inc score" "1" eingefügt, damit im Falle eine Kollision der Punktestand um 1 erhöht wird. Diese Grafik kann man im "spaceland" ablesen.
 
 ##Lernaktivität 5<a name="5"></a>
+
+
+##Lernaktivität 6<a name="6"></a>
+
+
+##Lernaktivität 7<a name="7"></a>
+
+
+##Lernaktivität 8<a name="8"></a>
+
+
+##Lernaktivität 9<a name="9"></a>
+
+
+##Lernaktivität 10<a name="10"></a>
