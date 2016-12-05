@@ -152,6 +152,12 @@ Haben wir ihn in "Points Rabbit" umbenannt. Damit diese variable definiert wird 
 
 ##Lernaktivität 5<a name="5"></a>
 
+Um mit den folgenden Schritten beginnen zu können, mussten wir in der "Edit-Breeds"-Funktion Bäume, einen Schlüssel und ein Schloss erstellen. Nun konnten wir den Befehl "create-castle-do" in den "setup"-Block, den wir in "Rabbit, Object, Tree, Key, Castle" umbenannt haben, einsetzen. Die Anzahl setzten wir auf "1". 
+Mit dem Befehl "set size" und der Varaible "15" in der "do"-Spalte vergrößerten wir das "Castle" um den Faktor 15.
+Um die Bäume zu erstellen, setzten wir den gleichen "set up"- Block den "create Tree do"- Befehl. Hier änderten wir die Anzahl auf "20".
+In der "do"-Spalte ändertenn wir die Größe mit "set size" um "3", damit der Hase mit der Größe "1" an ihnen hinauf klettern kann.
+Zuletzt musste der Schlüssel "Key" ins "Spaceland" gesetzt werden. Hierfür setzten wir in den "setup"-Block den Befehl "create Key" und setzten die Anzahl auf "1".
+Damit der "Rabbit" auf die Bäume klettern kann, müssen wir eine "collision" zwischen dem "Rabbit" und "Tree" verursachen. Da sich der Baum nicht verändert oder eine Handlung ausführt, bleibt die "Tree"- Spalte leer. 
 
 ##Lernaktivität 6<a name="6"></a>
 
